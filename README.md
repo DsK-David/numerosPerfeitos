@@ -55,8 +55,4 @@ Esse programa é uma forma interessante de explorar a matemática dos números p
 
 ## Contato
 
-Para mais informações ou sugestões, entre em contato:
-
-- **Nome:** David Silva
-- **Email:** [Seu Email]
-- **Portfólio:** [Link para o seu portfólio]
+Para mais informações ou sugestões, entre em contato
